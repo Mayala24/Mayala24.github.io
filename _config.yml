@@ -1,15 +1,14 @@
 # Site settings
-title: Mario Ayala
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: "IT304-Final-Project"
+email: mayala24@gmu.edu
+description: >-
+  This is a website created for a school project. 
+
 baseurl: "" # consider adding your GitHub Pages subpath here if needed
+
 url: "https://mayala24.github.io" # add your site URL here
 
-twitter_username: jekyllrb
-github_username:  jekyll
+
 
 # Add navigation links
 header_pages:
@@ -17,7 +16,7 @@ header_pages:
   - ethics.md
 
 # Build settings
-theme: minima
+theme: "minima"
 plugins:
   - jekyll-feed
 
@@ -40,3 +39,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
